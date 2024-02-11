@@ -1,0 +1,47 @@
+/*/* Add your custom styles here */
+ body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            max-width: 800px;
+            margin-top: 50px;
+        }
+
+        h2 {
+            color: #007bff;
+        }
+
+        #languageSlider {
+            background: linear-gradient(to right, #3494E6, #EC6EAD);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        .carousel-item img {
+            height: 300px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .carousel-control-prev,
+        .carousel-control-next {
+            width: 5%;
+            color: #fff;
+            font-size: 24px;
+            background: none;
+        }
+
+        .carousel-control-prev-icon,
+        .carousel-control-next-icon {
+            background-color: #fff;
+            border: 1px solid #fff;
+            border-radius: 50%;
+        }
+
+        .carousel-control-prev:hover,
+        .carousel-control-next:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }*/
